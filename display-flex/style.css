@@ -5,34 +5,63 @@ flex-wrap: wrap-reverse;
 justify-content: space-evenly;
 }
 .bloco_1{
-    width: 100px;
-    height: 100px;
-    margin: 10px;
+    width: 350px;
+    height: 500px;
+    margin: 10px 0 10px 10px;
     padding: 10px;
     text-align: center;
+     border: 1px solid blue
+    border radius 10px;
     background-color: rgb(168, 160, 44);
 }
 .bloco_2{
-    width: 100px;
-    height: 100px;
-    margin: 10px;
+    width: 300px;
+    height: 500px;
+    margin: 10px 0 10px 10px;
     padding: 10px;
     text-align: center;
+     border: 1px solid rgb(255, 25, 0)
+    border radius 10px;
     background-color: rgb(127, 255, 133);
 }
 .bloco_3{
-    width: 100px;
-    height: 100px;
-    margin: 10px;
+    width: 300px;
+    height: 500px;
+    margin: 10px 0 10px 10px;
     padding: 10px;
     text-align: center;
+    border: 1px solid blue
+    border radius 10px;
     background-color: rgb(29, 50, 143);
 }
 .bloco_4{
-    width: 100px;
-    height: 100px;
-    margin: 10px;
+    width: 300px;
+    height: 500px;
+    margin: 10px 0 10px 10px;
     padding: 10px;
     text-align: center;
+     border: 1px solid blue
+    border radius 10px;
+     border: 1px solid blue
+    border radius 10px;
     background-color: rgb(88, 13, 85);
+}
+.description{
+margin-top: 10px;
+font-family: "roboto", "verdana", sans-serif;
+}
+    .read-more{
+        border-color: chocolate;
+        text-align: center;
+       align-content: center;
+       height: 50px;
+       background-color: crimson; 
+    }  
+    
+
+    .read-more a{margin-top: 10px;
+text-decoration: nome;
+padding: 10px;
+color: chartreuse;
+font-size: 16px;
 }
