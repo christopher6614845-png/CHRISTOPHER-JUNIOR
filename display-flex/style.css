@@ -1,0 +1,38 @@
+.container{
+display: flex;
+flex-flow: row wrap;
+flex-wrap: wrap-reverse;
+justify-content: space-evenly;
+}
+.bloco_1{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(168, 160, 44);
+}
+.bloco_2{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(127, 255, 133);
+}
+.bloco_3{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(29, 50, 143);
+}
+.bloco_4{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(88, 13, 85);
+}
